@@ -1,0 +1,16 @@
+# 版本控制与本地环境
+.git
+.venv
+kev.egg-info
+**/__pycache__
+**/*.pyc
+
+# 本地产物与文档，镜像不需要
+runs
+experiments
+evals
+space
+playground
+docs
+tests
+*.log
